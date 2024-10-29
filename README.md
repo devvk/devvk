@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 -----------
-<b>Core technologies:</b>
-> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
+<b>Technologies:</b>
+![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
