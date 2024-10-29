@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**devvk/devvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------
+<b>Core technologies:</b>
+> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
+![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
+![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=devvk&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvk&layout=compact)](https://github.com/devvk/github-readme-stats)
